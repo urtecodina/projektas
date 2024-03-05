@@ -147,6 +147,7 @@ cin >> answer;
 if (answer==0){
     cout << "Bye bye!";
 } else if (answer == 1) {
+play();
 }else {
 cout << ">:/";
 
